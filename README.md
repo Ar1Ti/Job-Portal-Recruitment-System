@@ -1,5 +1,6 @@
 An administrator account is initialized automatically on first application startup using the configured environment variables.# Job Portal & Recruitment Management System
 
+
 Full stack Java project: **Spring Boot REST API + JWT security + MySQL**, with a vanilla HTML/CSS/JS frontend served by the same application.
 
 ## Tech stack
